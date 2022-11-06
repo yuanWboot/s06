@@ -1,6 +1,7 @@
 package com.zy.spring.ioc.entity;
 
 public class Apple {
+    //创建实体类
   private String  title;
   private String  color;
   private String  origin;
